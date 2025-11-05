@@ -1,14 +1,14 @@
 # Glucocorticoids negatively relate to body mass on the short-term in a free-ranging ungulate
 
-Lucas D. Lalande^1^, Emmanuelle Gilot-Fromont^1,2^, Jeffrey Carbillet^1,3^, François Débias^1^, Jeanne Duhayer^1,4^, Jean-Michel Gaillard^1^, Jean-François Lemaître^1^, Rupert Palme^5^, Sylvia Pardonnet^1,6^, Maryline Pellerin^7^, Benjamin Rey^1^, Pauline Vuarin^1^
+Lucas D. Lalande<sup>1</sup>, Emmanuelle Gilot-Fromont<sup>1,2</sup>, Jeffrey Carbillet<sup>1,3</sup>, François Débias<sup>1</sup>, Jeanne Duhayer<sup>1,4</sup>, Jean-Michel Gaillard<sup>1</sup>, Jean-François Lemaître<sup>1</sup>, Rupert Palme<sup>5</sup>, Sylvia Pardonnet<sup>1,6</sup>, Maryline Pellerin<sup>7</sup>, Benjamin Rey<sup>1</sup>, Pauline Vuarin<sup>1</sup>
 
-^1^ Université de Lyon, Université Lyon 1, CNRS, Laboratoire de Biométrie et Biologie Evolutive UMR 5558, F-69622 Villeurbanne, France\
-^2^ Université de Lyon, VetAgro Sup, Marcy l'Etoile, France\
-^3^ Current institution: Institute of Ecology and Earth Sciences, University of Tartu, Tartu, 51014, Estonia\
-^4^ Current institution: Office Français de la Biodiversité, Direction de la Recherche et de l'Appui Scientifique, Service Départemental de la Haute-Garonne, Villeneuve-de-Rivière, 31800, France\
-^5^ Unit of Physiology, Pathophysiology and Experimental Endocrinology, Department of Biomedical Sciences, University of Veterinary Medicine, Veterinärplatz 1, 1210 Vienna, Austria\
-^6^ Current institution: Université de Strasbourg, CNRS, IPHC UMR 7178, Strasbourg, France\
-^7^ Office Français de la Biodiversité, Direction de la Recherche et de l'Appui Scientifique, Service Conservation et Gestion Durable des Espèces Exploités, Châteauvillain, 52210, France\
+<sup>1</sup> Université de Lyon, Université Lyon 1, CNRS, Laboratoire de Biométrie et Biologie Evolutive UMR 5558, F-69622 Villeurbanne, France\
+<sup>2</sup> Université de Lyon, VetAgro Sup, Marcy l'Etoile, France\
+<sup>3</sup> Current institution: Institute of Ecology and Earth Sciences, University of Tartu, Tartu, 51014, Estonia\
+<sup>4</sup> Current institution: Office Français de la Biodiversité, Direction de la Recherche et de l'Appui Scientifique, Service Départemental de la Haute-Garonne, Villeneuve-de-Rivière, 31800, France\
+<sup>5</sup> Unit of Physiology, Pathophysiology and Experimental Endocrinology, Department of Biomedical Sciences, University of Veterinary Medicine, Veterinärplatz 1, 1210 Vienna, Austria\
+<sup>6</sup> Current institution: Université de Strasbourg, CNRS, IPHC UMR 7178, Strasbourg, France\
+<sup>7</sup> Office Français de la Biodiversité, Direction de la Recherche et de l'Appui Scientifique, Service Conservation et Gestion Durable des Espèces Exploités, Châteauvillain, 52210, France\
 
 Glucocorticoids negatively relate to body mass on the short-term in a free-ranging ungulate\
 *Oikos*, **2023**\
