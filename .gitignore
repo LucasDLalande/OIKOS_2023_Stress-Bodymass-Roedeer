@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+dataset/
+results/model selection tables
+manuscript/
+_Exchange_reviewers_editors
+README.html
