@@ -1,9 +1,31 @@
-.Rproj.user
+# System files
+Thumbs.db
+
+# RStudio files
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
+.Rbuildignore
+
+# Temporary files
+*.Rout
+*.log
+*.tmp
+
+# Scripts
+scripts/anonymisation_dataset.R
+
+# Dataset
 dataset/
-results/model selection tables
+
+# Manuscripts
 manuscript/
-_Exchange_reviewers_editors
+
+# Outputs
+results/model selection tables
+
+# Else
+_archives/
+_Exchange_reviewers_editors/
 README.html

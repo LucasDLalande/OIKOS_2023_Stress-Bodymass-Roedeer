@@ -90,7 +90,13 @@ Necessitate `R (>= 4.2.2)` and `RStudio`
 
 ## License
 
-The dataset is under CC0 1.0
+This repository contains the R code used to reproduce analyses from the article:
+
+> Lalande et al. **(2023)**. Glucocorticoids negatively relate to body mass on the short-term in a free-ranging ungulate. *Oikos.*
+
+-   Code and scripts are released under the **CC BY 4.0** license.
+-   The data are available on Dryad (DOI: [10.5061/dryad.pnvx0k6sk](https://doi.org/10.5061/dryad.pnvx0k6sk)) and are governed by their own license.
+
 
 ## Citation
 
