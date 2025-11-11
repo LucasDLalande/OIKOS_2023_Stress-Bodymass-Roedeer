@@ -102,11 +102,11 @@ This repository contains the R code used to reproduce analyses from the article:
 
 Cite the following if you refer to the article:
 
-Lalande, Lucas D., Emmanuelle Gilot-Fromont, Jeffrey Carbillet, FrançoisDébias, Jeanne Duhayer, Jean-Michel Gaillard, Jean-François Lemaître, et al. 2023. “Glucocorticoids Negatively Relate to Body Mass on theShort-Term in a Free-Ranging Ungulate.” *Oikos* 2023 (10):e09769. <https://doi.org/10.1111/oik.09769>.
+Lalande, Lucas D., Emmanuelle Gilot-Fromont, Jeffrey Carbillet, François Debias, Jeanne Duhayer, Jean-Michel Gaillard, Jean-François Lemaître, et al. 2023. “Glucocorticoids Negatively Relate to Body Mass on the Short-Term in a Free-Ranging Ungulate.” *Oikos* 2023 (10):e09769. <https://doi.org/10.1111/oik.09769>.
 
 Cite the following if using the dataset:
 
-Lalande, Lucas, Emmanuelle Gilot-Fromont, Jeffrey Carbillet, FrançoisDebias, Jeanne Duhayer, Jean-Michel Gaillard, Jean-François Lemaître, et al. 2023. “Data from: Glucocorticoids Negatively Relate to BodyMass on the Short-Term in a Free-Ranging Ungulate.” <https://doi.org/10.5061/DRYAD.PNVX0K6SK>.
+Lalande, Lucas, Emmanuelle Gilot-Fromont, Jeffrey Carbillet, François Debias, Jeanne Duhayer, Jean-Michel Gaillard, Jean-François Lemaître, et al. 2023. “Data from: Glucocorticoids Negatively Relate to Body Mass on the Short-Term in a Free-Ranging Ungulate.” <https://doi.org/10.5061/DRYAD.PNVX0K6SK>.
 
 ## Contact: 
 
