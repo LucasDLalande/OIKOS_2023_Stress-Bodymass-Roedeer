@@ -94,7 +94,7 @@ This repository contains the R code used to reproduce analyses from the article:
 
 > Lalande et al. **(2023)**. Glucocorticoids negatively relate to body mass on the short-term in a free-ranging ungulate. *Oikos.*
 
--   Code and scripts are released under the **CC BY 4.0** license.
+-   Code and scripts are released under the **MIT** license.
 -   The data are available on Dryad (DOI: [10.5061/dryad.pnvx0k6sk](https://doi.org/10.5061/dryad.pnvx0k6sk)) and are governed by their own license.
 
 
@@ -102,11 +102,15 @@ This repository contains the R code used to reproduce analyses from the article:
 
 Cite the following if you refer to the article:
 
-Lalande, Lucas D., Emmanuelle Gilot-Fromont, Jeffrey Carbillet, François Debias, Jeanne Duhayer, Jean-Michel Gaillard, Jean-François Lemaître, et al. 2023. “Glucocorticoids Negatively Relate to Body Mass on the Short-Term in a Free-Ranging Ungulate.” *Oikos* 2023 (10):e09769. <https://doi.org/10.1111/oik.09769>.
+> Lucas D. Lalande, Emmanuelle Gilot-Fromont, Jeffrey Carbillet, François Debias, Jeanne Duhayer, Jean-Michel Gaillard, Jean-François Lemaître, et al. **(2023)**. Glucocorticoids Negatively Relate to Body Mass on the Short-Term in a Free-Ranging Ungulate. *Oikos* 2023(10):e09769. <https://doi.org/10.1111/oik.09769>.
 
 Cite the following if using the dataset:
 
-Lalande, Lucas, Emmanuelle Gilot-Fromont, Jeffrey Carbillet, François Debias, Jeanne Duhayer, Jean-Michel Gaillard, Jean-François Lemaître, et al. 2023. “Data from: Glucocorticoids Negatively Relate to Body Mass on the Short-Term in a Free-Ranging Ungulate.” <https://doi.org/10.5061/DRYAD.PNVX0K6SK>.
+> Lucas D. Lalande, Emmanuelle Gilot-Fromont, Jeffrey Carbillet, François Debias, Jeanne Duhayer, Jean-Michel Gaillard, Jean-François Lemaître, et al. **(2023)**. Data from: Glucocorticoids Negatively Relate to Body Mass on the Short-Term in a Free-Ranging Ungulate. *Dryad*. <https://doi.org/10.5061/DRYAD.PNVX0K6SK>.
+
+Cite the following if using the codes and scripts made available here:
+
+> ICI INSERER UN LIEN ZENODO GITHUB (release) POUR LA CITATION
 
 ## Contact: 
 
