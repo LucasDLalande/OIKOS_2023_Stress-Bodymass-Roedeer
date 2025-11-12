@@ -100,6 +100,10 @@ This repository contains the R code used to reproduce analyses from the article:
 
 ## Citation
 
+Cite the following if using the codes and scripts made available here:
+
+> Lucas D. Lalande **(2025)**. Code accompanying the Lalande et al. Oikos (2023) article on stress, body mass, and FGMs in roe deer. *Zenodo*. [10.5281/zenodo.17592871](https://doi.org/10.5281/zenodo.17592871 ) 
+
 Cite the following if you refer to the article:
 
 > Lucas D. Lalande, Emmanuelle Gilot-Fromont, Jeffrey Carbillet, François Debias, Jeanne Duhayer, Jean-Michel Gaillard, Jean-François Lemaître, et al. **(2023)**. Glucocorticoids Negatively Relate to Body Mass on the Short-Term in a Free-Ranging Ungulate. *Oikos* 2023(10):e09769. <https://doi.org/10.1111/oik.09769>.
@@ -107,10 +111,6 @@ Cite the following if you refer to the article:
 Cite the following if using the dataset:
 
 > Lucas D. Lalande, Emmanuelle Gilot-Fromont, Jeffrey Carbillet, François Debias, Jeanne Duhayer, Jean-Michel Gaillard, Jean-François Lemaître, et al. **(2023)**. Data from: Glucocorticoids Negatively Relate to Body Mass on the Short-Term in a Free-Ranging Ungulate. *Dryad*. <https://doi.org/10.5061/DRYAD.PNVX0K6SK>.
-
-Cite the following if using the codes and scripts made available here:
-
-> ICI INSERER UN LIEN ZENODO GITHUB (release) POUR LA CITATION
 
 ## Contact: 
 
