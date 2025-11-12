@@ -102,7 +102,7 @@ This repository contains the R code used to reproduce analyses from the article:
 
 Cite the following if using the codes and scripts made available here:
 
-> Lucas D. Lalande **(2025)**. Code accompanying the Lalande et al. Oikos (2023) article on stress, body mass, and FGMs in roe deer. *Zenodo*. [10.5281/zenodo.17592871](https://doi.org/10.5281/zenodo.17592871 ) 
+> Lucas D. Lalande **(2025)**. Code accompanying the Lalande et al. Oikos (2023) article on stress, body mass, and FGMs in roe deer. *Zenodo*. [10.5281/zenodo.17592870](https://doi.org/10.5281/zenodo.17592870) 
 
 Cite the following if you refer to the article:
 
